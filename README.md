@@ -8,3 +8,4 @@
 - Ordem de precadência
 - Utilizando Módulos
 - Manipulando Texto
+- Condições: if e else
