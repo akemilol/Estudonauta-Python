@@ -1,0 +1,7 @@
+# DESAFIO 4 (teste de tipos)
+desafio = input('Digite alguma coisa: ')
+print('O tipo primitivo é', type(desafio))
+print(desafio.isnumeric)
+print(desafio.islower)
+print(desafio.isupper)
+print(desafio.istitle)
