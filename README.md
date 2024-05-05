@@ -9,3 +9,4 @@
 - Utilizando Módulos
 - Manipulando Texto
 - Condições: if e else
+- Cores no Terminal
